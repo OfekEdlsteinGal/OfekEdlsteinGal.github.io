@@ -35,7 +35,7 @@ I am passionate about interdisciplinary research combining chemical and biologic
 
 <a href="www.linkedin.com/in/ofekedlstein" style="background:#444; color:white; padding:10px 15px; border-radius:20px; text-decoration:none; margin-right:10px;">LinkedIn</a>
 
-<a href="https://github.com" style="background:#444; color:white; padding:10px 15px; border-radius:20px; text-decoration:none;">GitHub</a>
+<a href="https://github.com/OfekEdlsteinGal" style="background:#444; color:white; padding:10px 15px; border-radius:20px; text-decoration:none;">GitHub</a>
 </div>
 
 </div>
