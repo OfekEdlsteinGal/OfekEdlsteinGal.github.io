@@ -1,6 +1,6 @@
 <div style="background:#1a1a1a; padding:40px; border-radius:20px; color:#e0e0e0; max-width:800px; margin:auto; font-family:Arial;">
 
-<h1 style="color:#ffffff;">Ofek Edlstein Gal</h1>
+<h1 style="color:#ffffff;">🧪 Ofek Edlstein Gal 🧪 </h1>
 
 <p style="color:#bbbbbb;">
 M.Sc. student in Chemistry · Weizmann Institute of Science  
@@ -8,7 +8,7 @@ M.Sc. student in Chemistry · Weizmann Institute of Science
 B.Sc. in Chemistry and Biology · Tel Aviv University
 </p>
 
-<h2 style="color:#ffffff;">Hi, I'm Ofek</h2>
+<h2 style="color:#ffffff;"> 🧬 Hi, I'm Ofek</h2>
 
 <p>
   
