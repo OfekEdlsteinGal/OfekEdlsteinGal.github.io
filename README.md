@@ -31,9 +31,9 @@ I am passionate about interdisciplinary research combining chemical and biologic
 <h2 style="margin-top:30px; color:#ffffff;"> 📞 Contact</h2>
 
 <div style="margin-top:10px;">
-<a href="mailto:your@email.com" style="background:#444; color:white; padding:10px 15px; border-radius:20px; text-decoration:none; margin-right:10px;">Email</a>
+<a href="ofek.edlstein@weizmann.ac.il" style="background:#444; color:white; padding:10px 15px; border-radius:20px; text-decoration:none; margin-right:10px;">Email</a>
 
-<a href="https://linkedin.com" style="background:#444; color:white; padding:10px 15px; border-radius:20px; text-decoration:none; margin-right:10px;">LinkedIn</a>
+<a href="www.linkedin.com/in/ofekedlstein" style="background:#444; color:white; padding:10px 15px; border-radius:20px; text-decoration:none; margin-right:10px;">LinkedIn</a>
 
 <a href="https://github.com" style="background:#444; color:white; padding:10px 15px; border-radius:20px; text-decoration:none;">GitHub</a>
 </div>
