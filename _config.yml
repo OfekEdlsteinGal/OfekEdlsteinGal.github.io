@@ -1,2 +1,8 @@
 theme: jekyll-theme-cayman
 theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
+title: Ofek Edlstein Gal
+description: M.Sc. student in Chemistry at the Weizmann Institute
+
+include:
+  - assets/css/style.css
