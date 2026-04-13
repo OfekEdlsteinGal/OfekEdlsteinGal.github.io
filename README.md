@@ -11,6 +11,7 @@ B.Sc. in Chemistry and Biology · Tel Aviv University
 <h2 style="color:#ffffff;">Hi, I'm Ofek</h2>
 
 <p>
+  
 I am a graduate student in chemistry with a strong interdisciplinary background combining chemistry and biology.  
 My interests focus on understanding complex biological and chemical systems through research.
 </p>
@@ -21,13 +22,13 @@ My interests focus on understanding complex biological and chemical systems thro
 <span style="background:#2a2a2a; padding:8px 14px; border-radius:20px;">Electrochemistry</span>
 </div>
 
-<h2 style="margin-top:30px; color:#ffffff;">About Me</h2>
+<h2 style="margin-top:30px; color:#ffffff;"> 🔎 About Me</h2>
 
 <div style="background:#222; padding:15px; border-radius:10px;">
 I am passionate about interdisciplinary research combining chemical and biological approaches to explore complex systems and develop new insights.
 </div>
 
-<h2 style="margin-top:30px; color:#ffffff;">Contact</h2>
+<h2 style="margin-top:30px; color:#ffffff;"> 📞 Contact</h2>
 
 <div style="margin-top:10px;">
 <a href="mailto:your@email.com" style="background:#444; color:white; padding:10px 15px; border-radius:20px; text-decoration:none; margin-right:10px;">Email</a>
